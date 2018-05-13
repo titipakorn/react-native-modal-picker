@@ -30,6 +30,9 @@
     }
   ],
   "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.1"
+  },
   "bugs": {
     "url": "https://github.com/d-a-n/react-native-modal-picker/issues"
   },
